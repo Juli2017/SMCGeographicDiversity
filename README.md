@@ -9,6 +9,8 @@ Two metrics in the American Community Survey indicate the portion of income spen
 * GRAPI: GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME    
 * SMOCAPI: SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME.   
 
-The highest category tracked by the ACS is for people spending 35% or more of their income on housing and the fraction of renter and mortgage paying households in this category is shown on the map above using 2014 ACS data. Purple-shaded zip code polygons indicate that over 50% of the renter or mortgage-paying households are paying at least 35% of their income on housing.
+The highest category tracked by the ACS is for people spending 35% or more of their income on housing and the fraction of renter and mortgage paying households in this category is shown on the map above using 2014 ACS data. Purple-shaded zip code polygons indicate that over 50% of the renter or mortgage-paying households are paying at least 35% of their income on housing.  
+
+
  
 

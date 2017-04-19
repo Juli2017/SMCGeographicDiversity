@@ -1,5 +1,5 @@
 # San Mateo County Diversity
-Metrics for 2014
+Metrics for 2014  
 link: https://juli2017.github.io/SMCGeographicDiversity/
 <iframe src="https://juli2017.github.io/leaflet-maps-with-google-sheets-polygons/" width="90%" height="600"></iframe>  
 Click between the different statistics to see the variation among zip codes in population density, median household income, or housing costs (GRAPI or SMOCAPI).  Click on the zip code area to display information about that zip code tabulation area.

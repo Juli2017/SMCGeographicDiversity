@@ -1,4 +1,4 @@
-Return to Main: https://juli2017.github.io/simple-page/
+<a href="https://juli2017.github.io/simple-page">Return To Main</a>
 # San Mateo County Diversity
 link: https://juli2017.github.io/SMCGeographicDiversity/
 <iframe src="https://juli2017.github.io/leaflet-maps-with-google-sheets-polygons/" width="90%" height="600"></iframe>  
